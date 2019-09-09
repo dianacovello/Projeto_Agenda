@@ -1,0 +1,96 @@
+.navbar-default {
+    background: #01632f ;    
+    width: 100%;
+    margin: 0px;
+    border: none;
+}
+.dropdown-toggle {
+    color: #fff !important;
+}
+body {
+    background-color: #2da364;
+    font-size: 18px;
+}
+body h3 {
+    color: #ecf71b;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2em;
+}
+body h5{
+    padding: auto;
+    text-align: center;
+    font-weight: bold;
+}
+table tr:first-child {
+    text-transform: uppercase;
+    background:#01632f;
+    color: #2eb217;
+    font-weight: bold;
+    text-align: center;
+}
+table tr:first-child a {
+    color: #2eb217;
+}
+#informacao td { /*editar e deletar da lista de compromisso e agenda*/
+    color: #000 ;
+    text-align: center;
+}
+#informacao a{
+    color: #8e1404;
+}
+.btn-info{
+    background: #05af16;
+    width: 10%;
+    height: 5%;
+}
+.btn-info a {
+    color: #fff;
+    font-weight: bold;      
+}
+.btn-primary {
+    width: 15%;
+    height: 5%;
+    color: #fff;
+    font-weight: bold;     
+}
+.btn-primary {
+    background: #01632f ;    
+    width: auto;
+}
+.btn-primary a {
+    color: #fff !important;
+    font-weight: bold;    
+}
+.btn-warning {
+    width: 20%;
+    height: 10%;
+}
+.btn-warning a{
+    color: #fff;
+    font-weight: bold;
+}
+.navbar-header a {
+    color: #fff !important;
+    font-weight: bold;    
+    text-transform: uppercase;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.alert-success, alert-danger {
+    width: 60%;
+}
+.container h1 {
+    font-family: 'Lobster', cursive;
+    color: #eff713;
+    text-transform: none;
+}
+.container h3 {
+    color: #fff;
+}
+.form-group label{
+    color: #fff !important;
+}
+.horaAtual{
+    color: #fff;
+    font-weight: bold;   
+}
